@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Waviz_task/static/css/main.a96edeae.chunk.css",
+    "main.js": "/Waviz_task/static/js/main.666f82a9.chunk.js",
+    "main.js.map": "/Waviz_task/static/js/main.666f82a9.chunk.js.map",
+    "runtime-main.js": "/Waviz_task/static/js/runtime-main.70742122.js",
+    "runtime-main.js.map": "/Waviz_task/static/js/runtime-main.70742122.js.map",
+    "static/css/2.95456d05.chunk.css": "/Waviz_task/static/css/2.95456d05.chunk.css",
+    "static/js/2.37208c2b.chunk.js": "/Waviz_task/static/js/2.37208c2b.chunk.js",
+    "static/js/2.37208c2b.chunk.js.map": "/Waviz_task/static/js/2.37208c2b.chunk.js.map",
+    "static/js/3.868e94bd.chunk.js": "/Waviz_task/static/js/3.868e94bd.chunk.js",
+    "static/js/3.868e94bd.chunk.js.map": "/Waviz_task/static/js/3.868e94bd.chunk.js.map",
+    "index.html": "/Waviz_task/index.html",
+    "static/css/2.95456d05.chunk.css.map": "/Waviz_task/static/css/2.95456d05.chunk.css.map",
+    "static/css/main.a96edeae.chunk.css.map": "/Waviz_task/static/css/main.a96edeae.chunk.css.map",
+    "static/js/2.37208c2b.chunk.js.LICENSE.txt": "/Waviz_task/static/js/2.37208c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70742122.js",
+    "static/css/2.95456d05.chunk.css",
+    "static/js/2.37208c2b.chunk.js",
+    "static/css/main.a96edeae.chunk.css",
+    "static/js/main.666f82a9.chunk.js"
+  ]
+}
